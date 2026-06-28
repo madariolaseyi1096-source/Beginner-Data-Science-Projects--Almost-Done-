@@ -4,9 +4,9 @@
 
 <p align="center">
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License"></a>
-  <a href="https://github.com/madariolaseyi1096-source/Beginner-Data-Science-Projects/stargazers"><img src="https://img.shields.io/github/stars/madariolaseyi1096-source/Beginner-Data-Science-Projects" alt="Stars"></a>
-  <a href="https://github.com/madariolaseyi1096-source/Beginner-Data-Science-Projects/network/members"><img src="https://img.shields.io/github/forks/madariolaseyi1096-source/Beginner-Data-Science-Projects" alt="Forks"></a>
-  <a href="https://github.com/madariolaseyi1096-source/Beginner-Data-Science-Projects/issues"><img src="https://img.shields.io/github/issues/madariolaseyi1096-source/Beginner-Data-Science-Projects" alt="Issues"></a>
+  <a href="https://github.com/madariolaseyi1096-source/Beginner-Data-Science-Projects--Almost-done-/stargazers"><img src="https://img.shields.io/github/stars/madariolaseyi1096-source/Beginner-Data-Science-Projects--Almost-done-" alt="Stars"></a>
+  <a href="https://github.com/madariolaseyi1096-source/Beginner-Data-Science-Projects--Almost-done-/network/members"><img src="https://img.shields.io/github/forks/madariolaseyi1096-source/Beginner-Data-Science-Projects--Almost-done-" alt="Forks"></a>
+  <a href="https://github.com/madariolaseyi1096-source/Beginner-Data-Science-Projects--Almost-done-/issues"><img src="https://img.shields.io/github/issues/madariolaseyi1096-source/Beginner-Data-Science-Projects--Almost-done-" alt="Issues"></a>
 </p>
 
 
@@ -68,8 +68,8 @@ jupyter notebook
 ### Quick Start
 
 ```bash
-git clone https://github.com/madariolaseyi1096-source/Beginner-Data-Science-Projects.git
-cd Beginner-Data-Science-Projects
+git clone https://github.com/madariolaseyi1096-source/Beginner-Data-Science-Projects--Almost-done-.git
+cd Beginner-Data-Science-Projects--Almost-done-
 
 # Pick a project and run it
 cd "Iris Flower Classification"
